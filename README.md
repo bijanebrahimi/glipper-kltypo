@@ -4,11 +4,11 @@ KLTypo is a [glipper](https://launchpad.net/glipper) plugin to correct the Typos
 
 Senario [ENG]
 ---------------
-Consider writing **"Hello World"** but you forgot to set the keyboard layout to English, let's say it's Persian Layout Now, the outcome is **"اثممخ صخقمی"**! to correct this without writing the text again, just select the text (after enabling KLTypo plugin in glipper of course) and Select "**Persian > English**"  from KLTypo menu! the correct text will be replaced into clipboard and Will be ready to paste.
+Consider writing **"Hello World"** but you forgot to set the keyboard layout to English, let's say it's Persian Layout Now, the outcome is **"اثممخ صخقمی"**! to correct this without writing the text again, just select the text (after enabling KLTypo plugin in glipper of course) and Select "**Persian > English**"  from KLTypo menu in glipper window! the correct text will be replaced into clipboard and Will be ready to paste. just press **Ctrl + V**!
 
-Senario [فارسی]
+Senario [FA]
 ---------------
-تصور کنید که جمله **«سلام جهان»** را می‌خواهید تایپ کنید ولی متوجه نیستید که لی‌اوت کیبورد شما فارسی نیست، بیایید تصور کنیم که لی‌اوت انگلیسی را انتخاب کرده‌اید، خروجی شما متن **"sghl [ihk"** خواهد بود! برای تصحیح این خطای تایپی بدون نگارش دوباره جمله کافی است متن اشتباه را انتخاب کرده (البته قبلا پلاگین kltypo را باید در glipper فعال کرده باشید) و گزینه **«English > Persian»** را از منوی KLTypo انتخاب کنید! متن تصحیح شده به فارسی در کلیپ‌برد شما قرار خواهد گرفت و آماده چسبانده (paste) شدن می‌باشد.
+‫‫تصور کنید که جمله **«سلام جهان»** را می‌خواهید تایپ کنید ولی متوجه نیستید که لی‌اوت کیبورد شما فارسی نیست، بیایید تصور کنیم که لی‌اوت انگلیسی را انتخاب کرده‌اید، خروجی شما متن **"sghl [ihk"** خواهد بود! برای تصحیح این خطای تایپی بدون نگارش دوباره جمله کافی است متن اشتباه را انتخاب کرده (البته قبلا پلاگین kltypo را باید در glipper فعال کرده باشید) و گزینه **«English > Persian»** را از منوی KLTypo از پنجره glipper انتخاب کنید! متن تصحیح شده به فارسی در کلیپ‌برد شما قرار خواهد گرفت و آماده چسبانده (paste) شدن می‌باشد. **Ctrl + v** را فشار دهید!
 
 Installation
 ---------------
@@ -16,7 +16,7 @@ To use the plugin just copy the "kltypo.py" to plugins directory at */usr/share/
 
         # cp kltypo.py /usr/share/glipper/plugins/
 
-Note: you need to have root permissions!
+*Note: you need to have root permissions!*
 
 
 Keyboard Layouts
